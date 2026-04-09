@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[oc]
+
+# Build files
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environment
+.venv/
+
+# Environment variables (IMPORTANT)
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# uv
+uv.lock
