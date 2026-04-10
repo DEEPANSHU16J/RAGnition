@@ -1,0 +1,52 @@
+ Company: Antino Solutions
+
+Antino Solutions is a software company that specializes in artificial intelligence and cloud computing services. The company was founded in 2018 and is headquartered in Bangalore, India.
+
+Services Offered:
+1. AI Chatbot Development
+Antino builds intelligent chatbots for customer support, e-commerce, and enterprise automation. These chatbots can understand natural language and provide accurate responses.
+
+2. Cloud Migration
+The company helps businesses migrate their infrastructure to cloud platforms like AWS, Azure, and Google Cloud. This improves scalability and reduces operational costs.
+
+3. Data Analytics
+Antino provides data analytics services including data visualization, predictive analytics, and business intelligence dashboards.
+
+4. Custom Software Development
+They develop custom web and mobile applications tailored to business needs.
+
+Technologies Used:
+- Python
+- JavaScript
+- TensorFlow
+- PyTorch
+- Docker
+- Kubernetes
+
+Clients:
+Antino has worked with clients in healthcare, finance, retail, and education sectors.
+
+Mission:
+The mission of Antino is to empower businesses with cutting-edge technology solutions.
+
+Vision:
+To become a global leader in AI-driven digital transformation.
+
+---
+
+Frequently Asked Questions (FAQ):
+
+Q1: What does Antino specialize in?
+A: Antino specializes in AI and cloud computing services.
+
+Q2: Where is Antino located?
+A: The company is headquartered in Gugaon, Bangalore, India.
+
+Q3: What industries does Antino serve?
+A: Healthcare, finance, retail, and education.
+
+Q4: What technologies does Antino use?
+A: Python, TensorFlow, PyTorch, Docker, and Kubernetes.
+
+Q5: Does Antino build chatbots?
+A: Yes, they provide AI chatbot development services.
